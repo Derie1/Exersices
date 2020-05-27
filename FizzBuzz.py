@@ -14,4 +14,5 @@ def fizz_buzz(first_num, last_num):
             list.append(i)
     return list
 
+
 print(fizz_buzz(15, 18))
